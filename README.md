@@ -1,10 +1,7 @@
 
 ![](assets/portada.png)
 
- 🌱 I’m currently learning **JAVA**
-
-- I'm Antonieta Kuz
-
+I'm Antonieta Kuz
 - PhD researcher in Computer Science
 - Specialized in several areas of knowledge such as Data Science, technology innovation, and education
 - Leadership and management of project development teams 
