@@ -10,6 +10,7 @@
 - My book avaible on [Book](https://https://books.google.com.ar/books?id=G9qLDwAAQBAJ&printsec=frontcover&redir_esc=y#v=onepage&q&f=false)
 - Linkedin avaible on [Linkedin](https://https://www.linkedin.com/in/antonietakuz/)
 - Full cv (spanish) on [Drive](https://drive.google.com/file/d/1Dai9vpjOFAk4rBVdIC9mQXKaVgJJfVI9/view?usp=sharing)
+- My ORCID 0000-0002-8696-0859 on [Link](https://orcid.org/0000-0002-8696-0859)
 - How to reach me **antonietakuz@gmail.com**
 
 
