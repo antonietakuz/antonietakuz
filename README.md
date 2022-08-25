@@ -2,7 +2,7 @@
 ![](assets/portada.png)
 
 **I'm Antonieta Kuz**
-- Postgraduate:PhD researcher in Computer Science from Universidad Nacional del Centro
+- Postgraduate: PhD researcher in Computer Science from Universidad Nacional del Centro
 - Academic degree: information systems engineering from Universidad Tecnlógica Nacional
 - Specialized in several areas of knowledge such as Data Science and technology innovation
 - Leadership and management of project teams with agile methodologies and implementation
