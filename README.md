@@ -1,6 +1,13 @@
 
 ![](assets/portada.png)
 
+<fieldset>
+    <legend>Persona:</legend>
+    Name: <input type="text"><br>
+    Email: <input type="text"><br>
+    Date of birth: <input type="text">
+</fieldset>
+
 **I'm Antonieta Kuz**
 - Postgraduate: PhD researcher in Computer Science from Universidad Nacional del Centro
 - Academic degree: information systems engineering from Universidad Tecnológica Nacional
