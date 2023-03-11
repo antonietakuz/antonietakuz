@@ -3,16 +3,16 @@
 
 
 <table 
-       width="10" cellspacing="1" cellpadding="1" border="1" bgcolor="#165480">
+       width="50%" cellspacing="1" cellpadding="1" border="1" bgcolor="#165480">
 <tr>
-   <td bgcolor="#5FA6D7">
+   <td bgcolor="#ffffcc">
 <font size=1 face="verdana, arial, helvetica">
    <img src="assets/portada.png">
 </font>
    </td>
 </tr>
 <tr>
-    <td bgcolor="#ffffcc">
+    <td bgcolor="#5FA6D7">
    <font face="verdana, arial, helvetica" size=1>
       Postgraduate: PhD researcher in Computer Science from Universidad Nacional del Centro
       <br> Academic degree: information systems engineering from Universidad Tecnológica Nacional</br>
