@@ -1,13 +1,12 @@
 
 ![](assets/portada.png)
 
-.caja { 
-font-family: sans-serif; 
+
+<div font-family: sans-serif; 
 font-size: 18px; 
 font-weight: 400; 
 color: #ffffff; 
-background:#ee0467 }
-<div class="caja">¡Hola! Soy una caja muy estilosa</div>
+background:#ee0467>¡Hola! Soy una caja muy estilosa</div>
 
 - Postgraduate: PhD researcher in Computer Science from Universidad Nacional del Centro
 - Academic degree: information systems engineering from Universidad Tecnológica Nacional
