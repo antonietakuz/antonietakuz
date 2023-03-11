@@ -17,6 +17,11 @@
       Academic degree: information systems engineering from Universidad Tecnológica Nacional
    </font>
    </td>
+   <td bgcolor="#ffffcc">
+   <font face="verdana, arial, helvetica" size=1>
+      Academic degree: information systems engineering from Universidad Tecnológica Nacional
+   </font>
+   </td>
 </tr>
 </table>
 
