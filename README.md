@@ -9,6 +9,13 @@
    </font>
    </td>
 </tr>
+    <tr>
+   <td bgcolor="#5FA6D7">
+<font size=1 face="verdana, arial, helvetica">
+<b>Antonieta Kuz</b>
+</font>
+   </td>
+</tr>
 </table>
 
 - Postgraduate: PhD researcher in Computer Science from Universidad Nacional del Centro
