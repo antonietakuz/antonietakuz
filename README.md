@@ -6,7 +6,7 @@
 <tr>
    <td bgcolor="#ffffcc">
    <font face="arial, verdana, helvetica">
-   **Antonieta Kuz**
+   Antonieta Kuz
    </font>
    </td>
 </tr>
