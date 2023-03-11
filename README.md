@@ -1,10 +1,6 @@
 
 <table 
-       
-      <tr style="width:130%; height:150%;">
-        <td>Enero</td>
-        <td>$100</td>
-      </tr>
+      
 <tr>
    <td bgcolor="#ffffcc">
 <font size=1 face="verdana, arial, helvetica">
@@ -31,16 +27,7 @@
 </tr>
 </table>
 
- <table>
-      <tr style="width:130%; height:150%;">
-        <td>Enero</td>
-        <td>$100</td>
-      </tr>
-      <tr>
-        <td>Febrero</td>
-        <td>$80</td>
-      </tr>
-    </table>
+
 
 
 
