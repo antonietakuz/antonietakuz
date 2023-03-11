@@ -1,6 +1,10 @@
 
 <table 
-       width="5%" cellspacing="1" cellpadding="1" border="1" bgcolor="#165480">
+       
+      <tr style="width:130%; height:150%;">
+        <td>Enero</td>
+        <td>$100</td>
+      </tr>
 <tr>
    <td bgcolor="#ffffcc">
 <font size=1 face="verdana, arial, helvetica">
