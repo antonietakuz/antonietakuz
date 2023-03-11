@@ -12,7 +12,7 @@
     <td bgcolor="#5FA6D7">
    <font face="verdana, arial, helvetica" size=1>
       Postgraduate: PhD researcher in Computer Science from Universidad Nacional del Centro
-      <br> Academic degree: information systems engineering from Universidad Tecnológica Nacional</br>
+      <br> Academic degree: Information Systems Engineering from Universidad Tecnológica Nacional</br>
       Specialized in several areas of knowledge such as Data Science and technology innovation
       <br>Leadership and management of project teams with agile methodologies and implementation</br>
       University teacher in diferent areas of knowledge like UX, Data Science, Scrum
