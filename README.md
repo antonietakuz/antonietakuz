@@ -2,8 +2,7 @@
 
 
 
-<table width="200" cellspacing="1" cellpadding="3" border="1" bgcolor="#165480" display: block;
-       overflow-x: auto>
+<table width="100" cellspacing="1" cellpadding="3" border="1" bgcolor="#165480">
 <tr>
    <td bgcolor="#5FA6D7">
 <font size=1 face="verdana, arial, helvetica">
