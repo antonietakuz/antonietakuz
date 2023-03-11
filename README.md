@@ -1,35 +1,20 @@
 
 ![](assets/portada.png)
 
-*{
-  font-family: Arial;
-}
-
-textarea{
-  height: 80px;
-  width: 220px;
-}
-
-.add{
-  margin-left: 5px;
-  position: fixed;
-  margin-top: 15px;
-}
-
-.delete{
-  margin-left: 5px;
-  position: fixed;
-  margin-top: 40px;
-}
-
-<form>
-  <fieldset>
-    <legend>Correos electrónicos alternativos:</legend>
-    <textarea>mail1@mail.com   mail2@hotmail.com</textarea>
-    <button class="add">Agregar</button>
-    <button class="delete">Eliminar</button>
-  </fieldset>
-</form>
+<table width="280" cellspacing="1" cellpadding="3" border="0" bgcolor="#1E679A">
+<tr>
+   <td><font color="#FFFFFF" face="arial, verdana, helvetica">
+<b>Recuadro curioso con HTML</b>
+   </font></td>
+</tr>
+<tr>
+   <td bgcolor="#ffffcc">
+   <font face="arial, verdana, helvetica">
+   Este es el interior del recuadro. Esperamos que os resulte elegante... es muy sencillo.
+   </font>
+   </td>
+</tr>
+</table>
 
 **I'm Antonieta Kuz**
 - Postgraduate: PhD researcher in Computer Science from Universidad Nacional del Centro
