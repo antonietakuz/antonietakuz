@@ -1,12 +1,35 @@
 
 ![](assets/portada.png)
 
-<fieldset>
-    <legend>Persona:</legend>
-    Name: <input type="text"><br>
-    Email: <input type="text"><br>
-    Date of birth: <input type="text">
-</fieldset>
+*{
+  font-family: Arial;
+}
+
+textarea{
+  height: 80px;
+  width: 220px;
+}
+
+.add{
+  margin-left: 5px;
+  position: fixed;
+  margin-top: 15px;
+}
+
+.delete{
+  margin-left: 5px;
+  position: fixed;
+  margin-top: 40px;
+}
+
+<form>
+  <fieldset>
+    <legend>Correos electrónicos alternativos:</legend>
+    <textarea>mail1@mail.com   mail2@hotmail.com</textarea>
+    <button class="add">Agregar</button>
+    <button class="delete">Eliminar</button>
+  </fieldset>
+</form>
 
 **I'm Antonieta Kuz**
 - Postgraduate: PhD researcher in Computer Science from Universidad Nacional del Centro
