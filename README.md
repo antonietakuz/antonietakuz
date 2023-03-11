@@ -6,7 +6,6 @@
 <tr>
    <td bgcolor="#5FA6D7">
 <font size=1 face="verdana, arial, helvetica">
-   <b>![](assets/portada.png) </b>
    <img src="assets/portada.png">
 </font>
    </td>
