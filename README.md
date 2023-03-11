@@ -2,19 +2,24 @@
 ![](assets/portada.png)
 
 
-<table width="200" cellspacing="1" cellpadding="3" border="0" bgcolor="#80A93E">
+<table width="200" cellspacing="1" cellpadding="3" border="0" bgcolor="#165480">
 <tr>
-   <td bgcolor="#B7F259"><font size=1 face="verdana, arial, helvetica"><b>Recuadro curioso con HTML</b></font></td>
+   <td bgcolor="#5FA6D7">
+<font size=1 face="verdana, arial, helvetica">
+<b>Antonieta Kuz</b>
+</font>
+   </td>
 </tr>
 <tr>
-   <td bgcolor="#F5ECB9">
+    <td bgcolor="#ffffcc">
+   <font face="verdana, arial, helvetica" size=1>
+  Postgraduate: PhD researcher in Computer Science from Universidad Nacional del Centro
+   </font>
+   </td>
+</tr>
+</table>
 
-    <table width="95%" cellspacing="1" cellpadding="1" border="0" align="center">
-<tr>
-   <td valign=top><font face="verdana, arial, helvetica" size=1>+</font></td>
-   <td><font face="verdana, arial, helvetica" size=1>
-
-- Postgraduate: PhD researcher in Computer Science from Universidad Nacional del Centro
+- 
 - Academic degree: information systems engineering from Universidad Tecnológica Nacional
 - Specialized in several areas of knowledge such as Data Science and technology innovation
 - Leadership and management of project teams with agile methodologies and implementation
