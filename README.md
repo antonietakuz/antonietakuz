@@ -2,11 +2,7 @@
 ![](assets/portada.png)
 
 
-<div font-family: sans-serif; 
-font-size: 18px; 
-font-weight: 400; 
-color: #ffffff; 
-background:#ee0467>¡Hola! Soy una caja muy estilosa</div>
+<p style="border: ridge #0f0fef 1px;">Introduce el texto que quieres encuadrar</p>
 
 - Postgraduate: PhD researcher in Computer Science from Universidad Nacional del Centro
 - Academic degree: information systems engineering from Universidad Tecnológica Nacional
