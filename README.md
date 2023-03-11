@@ -22,8 +22,7 @@
       Linkedin avaible on this [link](https://https://www.linkedin.com/in/antonietakuz/)
       <br>Full cv spanish version on [Drive](https://drive.google.com/file/d/1Oe5UghHAvsJVB5T2Rt_oNiVhX7XRuLsG/view?usp=share_link) and english version on [Drive] (https://drive.google.com/file/d/1g3FkLa1Sx6iXqRt2ne20HdjjHHaGktLw/view?usp=share_link)</br>
       ORCID 0000-0002-8696-0859 on this [link](https://orcid.org/0000-0002-8696-0859)
-      <br>How to reach me antonietakuz@gmail.com</br>
-      <strong>Y así también se pone un texto en negrita</strong>
+      <br>How to reach me </br> <strong> antonietakuz@gmail.com</strong>
    </font>
    </td>
 
