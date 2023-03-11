@@ -1,24 +1,7 @@
 
 ![](assets/portada.png)
 
-<table width="280" cellspacing="1" cellpadding="3" border="0" bgcolor="#1E679A">
 
-<tr>
-   <td bgcolor="#ffffcc">
-   <font face="arial, verdana, helvetica">
-   Antonieta Kuz
-   </font>
-   </td>
-</tr>
-   <tr>
-   <td><font color="#FFFFFF" face="arial, verdana, helvetica">
-   <b>
-   
-    </b>
-   </font></td>
-</tr>
-   
-</table>
 - Postgraduate: PhD researcher in Computer Science from Universidad Nacional del Centro
 - Academic degree: information systems engineering from Universidad Tecnológica Nacional
 - Specialized in several areas of knowledge such as Data Science and technology innovation
