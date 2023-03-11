@@ -1,12 +1,13 @@
 
-![](assets/portada.png)
+
 
 
 <table width="200" cellspacing="1" cellpadding="3" border="1" bgcolor="#165480">
 <tr>
    <td bgcolor="#5FA6D7">
 <font size=1 face="verdana, arial, helvetica">
-<b> Antonieta Kuz</b>
+
+   <b> ![](assets/portada.png) Antonieta Kuz</b>
 </font>
    </td>
 </tr>
