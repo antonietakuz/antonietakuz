@@ -1,6 +1,21 @@
 
 ![](assets/portada.png)
-
+<table width="200" cellspacing="1" cellpadding="3" border="0" bgcolor="#165480">
+<tr>
+   <td bgcolor="#5FA6D7">
+<font size=1 face="verdana, arial, helvetica">
+<b>Recuadro curioso con HTML</b>
+</font>
+   </td>
+</tr>
+<tr>
+    <td bgcolor="#ffffcc">
+   <font face="verdana, arial, helvetica" size=1>
+   Este es el interior del recuadro. Esperamos que os resulte elegante... es muy sencillo.
+   </font>
+   </td>
+</tr>
+</table>
 
 - Postgraduate: PhD researcher in Computer Science from Universidad Nacional del Centro
 - Academic degree: information systems engineering from Universidad Tecnológica Nacional
