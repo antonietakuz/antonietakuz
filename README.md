@@ -4,7 +4,7 @@
 <tr>
    <td bgcolor="#5FA6D7">
 <font size=1 face="verdana, arial, helvetica">
-<b>Recuadro curioso con HTML</b>
+<b>Antonieta Kuz</b>
 </font>
    </td>
 </tr>
