@@ -3,7 +3,7 @@
 
 
 <table 
-       width="50%" cellspacing="1" cellpadding="1" border="1" bgcolor="#165480">
+       width="5%" cellspacing="1" cellpadding="1" border="1" bgcolor="#165480">
 <tr>
    <td bgcolor="#ffffcc">
 <font size=1 face="verdana, arial, helvetica">
