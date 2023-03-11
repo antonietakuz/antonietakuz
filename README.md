@@ -1,16 +1,5 @@
 
 ![](assets/portada.png)
-<table width="200" cellspacing="1" cellpadding="3" border="0" bgcolor="#80A93E">
-<tr>
-   <td bgcolor="#B7F259"><font size=1 face="verdana, arial, helvetica"><b>Recuadro curioso con HTML</b></font></td>
-</tr>
-<tr>
-   <td bgcolor="#F5ECB9">
-
-    <table width="95%" cellspacing="1" cellpadding="1" border="0" align="center">
-<tr>
-   <td valign=top><font face="verdana, arial, helvetica" size=1>+</font></td>
-   <td><font face="verdana, arial, helvetica" size=1>
 
 
 
