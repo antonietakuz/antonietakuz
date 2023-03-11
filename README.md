@@ -1,7 +1,19 @@
 
 ![](assets/portada.png)
 
-
+<textarea rows="15" cols="70">
+<style>
+body {margin-top: 170px;}
+.joomblybanner {position:absolute;top:30px;width:728px;}
+.joomblybanner {text-align:center;margin-top:15px;}
+.joomblybanner {margin-left:-399px;left:50%;}
+</style>
+<div class="joomblybanner">
+<a href="http://www.joombly.com/" title="Banner para Myspace">
+<img src="http://TU_IMAGEN" border="0" alt="Banner para Myspace"/>
+</a>
+</div> 
+</textarea>
 
 - Postgraduate: PhD researcher in Computer Science from Universidad Nacional del Centro
 - Academic degree: information systems engineering from Universidad Tecnológica Nacional
