@@ -15,7 +15,7 @@
       <br> Academic degree: Information Systems Engineering from Universidad Tecnológica Nacional</br>
       Specialized in several areas of knowledge such as Data Science and technology innovation
       <br>Leadership and management of project teams with agile methodologies and implementation</br>
-      University teacher in diferent areas of knowledge like UX, Data Science, Scrum
+      University teacher in diferent areas of knowledge like  Data Science, UX, Project Management,Scrum
       <br>Book avaible on Google books https://bit.ly/3Fh8ygj </br>
       Linkedin avaible on this link https://https://www.linkedin.com/in/antonietakuz/
       <br>Full cv spanish version on Drive https://bit.ly/3MC20xz and english version on Drive https://bit.ly/3zKRiNh </br>
