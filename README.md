@@ -18,7 +18,7 @@
       University teacher in diferent areas of knowledge like  Data Science, UX, Project Management,Scrum
       <br>Book avaible on Google books https://bit.ly/3Fh8ygj </br>
       Linkedin avaible on this link https://https://www.linkedin.com/in/antonietakuz/
-      <br>Full cv spanish version on Drive https://bit.ly/3MC20xz and english version on Drive https://bit.ly/3zKRiNh </br>
+      <br>Full cv spanish version and english version on Drive https://lc.cx/E-Vtx3 </br>
       ORCID 0000-0002-8696-0859 on this link (https://orcid.org/0000-0002-8696-0859)
       <br>How to reach me <strong> antonietakuz@gmail.com</strong> </br>
    </font>
