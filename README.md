@@ -13,7 +13,7 @@
    <font face="verdana, arial, helvetica" size=1>
       PhD researcher in Computer Science from Universidad Nacional del Centro
         <br>Postgraduate: Data science specialist from Universidad de Cuyo, Facultad de Ciencias Económicas</br>
-      <br> Academic degree: Information Systems Engineering from Universidad Tecnológica Nacional</br>
+      Academic degree: Information Systems Engineering from Universidad Tecnológica Nacional
       Specialized in several areas of knowledge such as Data Science and technology innovation
       <br>Leadership and management of project teams with agile methodologies and implementation</br>
       University teacher in diferent areas of knowledge like  Data Science, UX, Project Management,Scrum
