@@ -25,11 +25,12 @@
                <li>[LinkedIn Profile](https://www.linkedin.com/in/antonietakuz/)</li>
                <li>Full CV in Spanish and English available on [Google Drive](https://lc.cx/E-Vtx3)</li>
                <li>ORCID ID: [0000-0002-8696-0859](https://orcid.org/0000-0002-8696-0859)</li>
-               <li>Reach me at: [antoniet
-
-
-
-
-
+               <li>Reach me at: [antonietakuz@gmail.com](mailto:antonietakuz@gmail.com)</li>
+            </ul>
+            <p>Feel free to explore my repositories and don't hesitate to get in touch! I'm open to collaborations and discussions within the field of Data Science and beyond.</p>
+         </font>
+      </td>
+   </tr>
+</table>
 
 
