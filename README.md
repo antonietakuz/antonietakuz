@@ -2,14 +2,14 @@
 <table 
       
 <tr>
-   <td bgcolor="#ffffcc">
+   <td bgcolor="#aa73bf">
 <font size=1 face="verdana, arial, helvetica">
    <img src="assets/cover.jpg">
 </font>
    </td>
 </tr>
 <tr>
-    <td bgcolor="#5FA6D7">
+    <td bgcolor="#aa73bf">
    <font face="verdana, arial, helvetica" size=1>
       PhD researcher in Computer Science from Universidad Nacional del Centro
         <br>Postgraduate: Data science specialist from Universidad de Cuyo, Facultad de Ciencias Económicas</br>
