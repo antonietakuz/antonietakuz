@@ -12,7 +12,7 @@
             <h3>Antonieta Kuz - PhD Researcher in Computer Science</h3>
             <table>
                <tr>
-                  <td>
+                  <td width="50%">
                      <h4>About Me</h4>
                      <ul>
                         <li>PhD researcher in Computer Science from Universidad Nacional del Centro</li>
@@ -23,7 +23,7 @@
                         <li>Author of a book available on Google Books [Book Title](https://bit.ly/3Fh8ygj)</li>
                      </ul>
                   </td>
-                  <td>
+                  <td width="50%">
                      <h4>Additional Information</h4>
                      <ul>
                         <li>[LinkedIn Profile](https://www.linkedin.com/in/antonietakuz/)</li>
