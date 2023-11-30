@@ -4,7 +4,7 @@
 <tr>
    <td bgcolor="#ffffcc">
 <font size=1 face="verdana, arial, helvetica">
-   <img src="assets/FIGMAENCABEZADO.jpg">
+   <img src="assets/cover.jpg">
 </font>
    </td>
 </tr>
